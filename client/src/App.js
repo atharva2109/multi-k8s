@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Fibonnaci Series
+            Fibonnaci Series version Kubernettes
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
